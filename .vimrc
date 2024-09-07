@@ -1,0 +1,10 @@
+syntax on
+set path+=**
+set number
+set tabstop=4 
+set shiftwidth=4
+set expandtab
+set softtabstop=4
+set colorcolumn=80
+set wildmenu
+set autoindent
